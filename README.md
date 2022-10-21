@@ -1,10 +1,11 @@
-# 👋 Hello World, I'm xbhel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-### Maybe a fullstack developer
+# 👋 Hello World, I'm xbhel!
+### Maybe a fullstack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👀 I’m interested in Web、Java、BigData、Frontend
 - 🌱 I’m currently learning Vue3、ClickHouse
 - 💞️ I’m looking to collaborate on opensource projects
 
+![xbhel GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbhel&show_icons=true)
 
 ### Languages and Tools
 
@@ -18,8 +19,6 @@
 <code><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![xbhel GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbhel&show_icons=true)
 
 <!---
 xbhel/xbhel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
