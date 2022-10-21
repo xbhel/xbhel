@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Web、Java、BigData、Frontend
 - 🌱 I’m currently learning [Vue](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [ClickHouse](https://clickhouse.com/)
-- 💞️ I'm looking for like-minded programmers to pair program
+- 💞️ I'm looking for a like-minded programmer to pair program
 
 ![xbhel GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbhel&show_icons=true)
 
