@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @xbhel
+### 👋 Hello World, I'm xbhel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 - 👀 I’m interested in Web、Java、BigData、Frontend
 - 🌱 I’m currently learning Vue3、ClickHouse
 - 💞️ I’m looking to collaborate on opensource projects
 
+----
+
 ![xbhel GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbhel&show_icons=true)
+
+---- 
 
 ### Languages and Tools
 
