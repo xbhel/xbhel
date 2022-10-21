@@ -20,6 +20,8 @@
 <code><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"></a></code>
 <code><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"></a></code>
 
+[![jest](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)](https://jestjs.io/)
+
 <!---
 xbhel/xbhel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
