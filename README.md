@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [Vue](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [ClickHouse](https://clickhouse.com/)
 - 💞️ I’m looking to collaborate on opensource projects
 
-![xbhel GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbhel&show_icons=true)
+
 
 ### Languages and Tools
 
