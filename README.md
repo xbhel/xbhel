@@ -2,7 +2,7 @@
 ### Maybe a fullstack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👀 I’m interested in Web、Java、BigData、Frontend
-- 🌱 I’m currently learning Vue3、ClickHouse
+- 🌱 I’m currently learning [Vue](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [ClickHouse](https://clickhouse.com/)
 - 💞️ I’m looking to collaborate on opensource projects
 
 ![xbhel GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbhel&show_icons=true)
